@@ -1,5 +1,4 @@
 #!/bin/bash -x
-
 function palindrome() {
 s=0
 rev=""
